@@ -1,0 +1,13 @@
+{
+    "pythonVersion": "3.11",
+    "pythonPlatform": "Darwin",
+    "venvPath": ".",
+    "include": [
+        "."
+    ],
+    "extraPaths": [
+        "."
+    ],
+    "reportMissingImports": "none",
+    "reportMissingModuleSource": "none"
+}
