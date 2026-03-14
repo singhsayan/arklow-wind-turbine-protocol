@@ -369,7 +369,7 @@ def orbit_display(elevation_deg, visible):
     if visible:
         fig.add_trace(go.Scatter(
             x=[0, sx], y=[-0.18, sy], mode="lines",
-            line=dict(color="#00c4b420", width=1, dash="dash"),
+            line=dict(color="#00c4b4", width=1, dash="dash"),
             showlegend=False, hoverinfo="skip",
         ))
     fig.update_layout(
